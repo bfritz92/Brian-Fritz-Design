@@ -302,7 +302,6 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
 					"fontWeight": "700",
-					"textTransform": "uppercase",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"fontSize": "var(--wp--preset--font-size--medium)"
 				}
@@ -311,9 +310,16 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
 					"fontWeight": "400",
-					"textTransform": "uppercase",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"p": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+					"fontWeight": "400",
+					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"link": {

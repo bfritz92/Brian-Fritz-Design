@@ -242,7 +242,7 @@
 			"core/query-title": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--poppins)",
-					"fontWeight": "300",
+					"fontWeight": "700",
 					"lineHeight": "var(--wp--custom--typography--line-height--small)",
 					"fontSize": "var(--wp--custom--typography--font-size--gigantic)"
 				}
@@ -257,7 +257,7 @@
 					"fontFamily": "var(--wp--preset--font-family--poppins)",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"fontSize": "var(--wp--preset--font-size--medium)",
-					"fontWeight": "normal"
+					"fontWeight": "700"
 				}
 			}
 		},

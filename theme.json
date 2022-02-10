@@ -254,7 +254,7 @@
 			},
 			"core/site-title": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--eb-garamond)",
+					"fontFamily": "var(--wp--preset--font-family--poppins)",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"fontSize": "var(--wp--preset--font-size--medium)",
 					"fontWeight": "700"
